@@ -10,6 +10,6 @@ variable "instance_type" {
 
 variable "instance_name" {
   description = "EC2 instance name"
-  default     = "Provisioned by TF"
+  default     = "Provisioned by TF_cloud"
 }
 
